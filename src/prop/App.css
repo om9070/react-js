@@ -1,0 +1,25 @@
+        * {
+            margin: 0%;
+            padding: 0%;
+            box-sizing: border-box;
+        }
+        
+        .card {
+            width: 18rem;
+            margin: 15px 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: left;
+            align-items: center;
+        }
+        
+        div {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+        }
+        
+        .card-body {
+            display: flex;
+            flex-direction: column;
+        }
